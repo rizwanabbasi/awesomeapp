@@ -10,7 +10,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: "Flutter Rows & Columns",
-      home: Home(),
+      home: const Home(),
       theme: ThemeData(primarySwatch: Colors.purple),
     );
   }
