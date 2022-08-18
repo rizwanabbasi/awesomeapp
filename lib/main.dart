@@ -9,7 +9,8 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Flutter Rows & Columns",
+      title:
+          "Material Drawer, ListView, CircleAvatar, NetworkImage & Floating Action Button",
       home: const Home(),
       theme: ThemeData(primarySwatch: Colors.purple),
     );
